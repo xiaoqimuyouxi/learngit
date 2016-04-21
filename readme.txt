@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git second.
 Git tracks changes.
+Add a branch.
