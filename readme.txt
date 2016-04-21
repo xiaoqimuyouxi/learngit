@@ -5,4 +5,5 @@ Git second.
 Git tracks changes.
 Add a branch.
 Creating a new branch is quick and simple.
+Add merge.
 
